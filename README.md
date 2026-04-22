@@ -2,7 +2,7 @@
 
 Ce dépôt contient l'ensemble des travaux pratiques réalisés dans le cadre du module de **NLP (Natural Language Processing)**. L'objectif de ces TPs est de maîtriser les différentes étapes de la chaîne de traitement du texte, de l'analyse lexicale aux modèles de deep learning.
 
-## 🚀 Contenu du dépôt
+## Contenu du dépôt
 
 Le projet est structuré par étapes progressives, couvrant les concepts fondamentaux et avancés du NLP :
 
@@ -24,7 +24,7 @@ Le projet est structuré par étapes progressives, couvrant les concepts fondame
 * Réseaux de neurones récurrents (**RNN**, **LSTM**, **GRU**).
 * Introduction aux **Transformers** et utilisation de modèles pré-entraînés via Hugging Face.
 
-## 🛠️ Technologies et Bibliothèques utilisées
+## Technologies et Bibliothèques utilisées
 
 * **Langage :** Python 3.x
 * **NLP :** NLTK, Spacy, TextBlob
@@ -33,7 +33,7 @@ Le projet est structuré par étapes progressives, couvrant les concepts fondame
 * **Analyse de données :** Pandas, NumPy
 * **Visualisation :** Matplotlib, Seaborn
 
-## 📋 Installation et Utilisation
+## Installation et Utilisation
 
 1.  **Cloner le dépôt :**
     ```bash
@@ -49,7 +49,7 @@ Le projet est structuré par étapes progressives, couvrant les concepts fondame
 3.  **Lancer les Notebooks :**
     Vous pouvez ouvrir les fichiers `.ipynb` via Jupyter Notebook ou Google Colab pour voir les résultats et exécuter le code.
 
-## 👤 Auteur
+## Auteur
 * **Insaf Elkorachi** - [Profil GitHub](https://github.com/Insaf-elkorachi)
 
 ---
